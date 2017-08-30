@@ -1,0 +1,42 @@
+<h1> Monday, August 28th </h1>
+<h2> Learning Goals:<h2>
+<h4> SWBAT:<h4>
+<ul>
+  <li>STRINGS ‐ explain what a string is and why it's used</li>
+  <li>STRINGS ‐ create strings using double quotes</li>
+  <li>STRINGS concatenate two strings using the + </li>
+  <li>STRINGS ‐ use common string methods</li>
+  <li>PUTS ‐ Explain what putsing is and what it's used for</li>
+  <li>INT ‐ explain what an integer is and why it's used</li>
+  <li>INT ‐ use common mathematical operations with integers</li>
+  <li>INT ‐ understand that ruby rounds down when doing math with integers</li>
+  <li>INT ‐ use typical methods like to_f and to_s to mutate integers</li>
+  <li>FLT ‐ explain what a float is and why it's used</li>
+  <li>FLT ‐ understand that math with floats produces floats and math with integers produces integers</li>
+  <li>FLT ‐ use typical methods like to_i and to_s to mutate float</li>
+  <li>FLT ‐ use common mathematical operations on floats</li>
+  <li>STRINGS/VARIABLES ‐ interpolate a variable or a method within a string</li>
+  <li>VAR ‐ use a variable in place of a piece of data</li>
+  <li>VAR ‐ assign integers to variables</li>
+  <li>VAR ‐ assign floats to variables</li>
+  <li>VAR ‐ reassign the value of a variable</li>
+</ul>
+
+<h3> Lesson Outline </h3>
+<p>
+- Why ruby? <br>
+- Strings <br>
+- String methods<br>
+- String Practice: <a href="https://github.com/mbigman/silly_string-lab"> Silly String Lab </a><br>
+- Math (integers and floats)<br>
+- Variables<br>
+- Practice: <a href="https://github.com/mbigman/invitation-maker-lab"> Invitation Maker Lab</a><br>
+</p>
+
+<h3> Resources </h3>
+<p>
+<a href="https://pine.fm/LearnToProgram/chap_02.html"> Strings> <br>
+<a href="https://pine.fm/LearnToProgram/chap_01.html"> Numbers and Arithmetic </a> <br>
+<a href="https://learnrubythehardway.org/book/ex3.html">Numbers and Math </a> <br>
+<a href="https://pine.fm/LearnToProgram/chap_03.html"> Variables </a> <br>
+<p>
